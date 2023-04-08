@@ -47,6 +47,11 @@ public class Test_Class extends Base_Class
     {
     	Reporter.log("Pass TC_01");
     }
+    @Test
+    public void TC_02() {
+    	Reporter.log("pass TC_02");
+    	
+    }
    
     
     @AfterMethod
